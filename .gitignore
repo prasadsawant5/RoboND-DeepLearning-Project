@@ -103,3 +103,8 @@ ENV/
 
 RUNS/
 
+*.zip
+*.rar
+
+data/train.zip
+
